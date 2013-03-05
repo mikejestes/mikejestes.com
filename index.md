@@ -3,8 +3,7 @@ layout: default
 title: Mike Estes
 ---
 
-Hi!
-===
+## Hi!
 
 ![Mike Estes](https://secure.gravatar.com/avatar/e0e42943729080b7c067f6aa5e783743?s=420)
 
